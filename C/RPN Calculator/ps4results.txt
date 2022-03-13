@@ -1,0 +1,7 @@
+Problem 1: Too many operators, program fails
+Problem 2: Too many operators, program fails
+Problem 3: -12.91
+Problem 4: 85.33
+Problem 5: Too few operators, program fails
+Problem 6: Expression is empty
+Problem 7: 373.25
