@@ -1,0 +1,10 @@
+Problem 2.1
+Smallest = -6, Largest = 100
+Smallest = -100, Largest = 99
+
+Problem 2.2
+Inner Product Result = 4158.761200
+
+Problem 2.3
+False. The arrays are not the same.
+False. The arrays are not the same.
